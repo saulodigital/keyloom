@@ -34,11 +34,13 @@ Use `-o` or `-out`.
 
 Printed example:
 
-```=== Wallet 1 ===
+```
+=== Wallet 1 ===
 Address:      0xAbC123...
 Public Key:   0x04f9...
 Private Key:  0x7f3c...
-Mnemonic:     skate fossil ...```
+Mnemonic:     skate fossil ...
+```
 
 JSON file example:
 
@@ -50,6 +52,6 @@ JSON file example:
     "publicKey": "0x04f9...",
     "privateKey": "0x7f3c...",
     "mnemonic": "skate fossil ..."
-  },
-  ...
-]```
+  }
+]
+```
